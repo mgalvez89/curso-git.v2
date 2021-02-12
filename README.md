@@ -1,2 +1,2 @@
 # curso-git.v2
-Curos de Git básico 
+Curos de Git básico.
